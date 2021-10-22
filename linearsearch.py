@@ -5,7 +5,7 @@ def search(a, n, x):
             
     return -1
     
-a = [1,2,3,5,4]
+a = [1,2,3,5,4,8,9]
 x = 6
 n = len(a)
 
